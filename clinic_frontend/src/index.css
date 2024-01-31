@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.gradient-custom-3 {
+  /* fallback for old browsers */
+  background: #84fab0;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+}
+
+.gradient-custom-4 {
+  /* fallback for old browsers */
+  background: #84fab0;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+}
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+/* Add your styling for the header in a CSS file or style section */
+header {
+  background-color: #e6dcdc; /* Change the background color as needed */
+  padding: 2px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 6px;
+  padding: 0px;
+  display: flex;
+  justify-content: flex-start; /* Align the menu to the right */
+}
+
+nav ul li {
+  margin-right: 20px; /* Adjust the spacing between menu items */
+}
+
+nav ul li:last-child {
+  margin-right: 11; /* Remove margin for the last menu item */
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(0, 0, 0); /* Set the text color as needed */
+}
+
+/* Add additional styling for the "Welcome" message */
+span {
+  color: #bd2e2e; /* Set the text color as needed */
+  margin-left: auto;
+}
+/* styles.css */
+
+.blue-button {
+  background-color: #2196f3 !important;
+  color: #ffffff !important;
+  padding: 10px 20px !important;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+}
+/* styles.css */
+
+.red-button {
+  background-color: #ff0000 !important; /* Red color */
+  color: #ffffff !important;
+  padding: 10px 20px !important;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+}
+
+.green-button {
+  background-color: #06c906 !important; /* Green color */
+  color: #ffffff !important;
+  padding: 10px 20px !important;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+}
+.orange-button {
+  background-color: #ffA500 !important; /* Orange color */
+  color: #ffffff !important;
+  padding: 10px 20px !important;
+  border: none !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EfOlg1YuBdh88PIsncfO43VwH29aWsLJ1AoQEXkhUJI=",
+  "Source": "ClinicBackendApi",
+  "BasePath": "_content/ClinicBackendApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ClinicBackendApi\\wwwroot",
+      "Source": "ClinicBackendApi",
+      "ContentRoot": "C:\\Users\\gaura\\Music\\Clinic-operate-\\ClinicBackendApi\\wwwroot\\",
+      "BasePath": "_content/ClinicBackendApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gaura\\Music\\Clinic-operate-\\ClinicBackendApi\\wwwroot\\swagger-ui\\SwaggerDark.css",
+      "SourceId": "ClinicBackendApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gaura\\Music\\Clinic-operate-\\ClinicBackendApi\\wwwroot\\",
+      "BasePath": "_content/ClinicBackendApi",
+      "RelativePath": "swagger-ui/SwaggerDark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\SwaggerDark.css"
+    }
+  ]
+}
