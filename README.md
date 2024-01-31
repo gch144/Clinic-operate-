@@ -7,16 +7,7 @@ Certainly! Here's the README file formatted in Markdown:
 
 The Doctor Appointment System is a web application that allows users to schedule appointments with doctors. It includes both frontend and backend components.
 
-## Table of Contents
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -34,20 +25,15 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting Started
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/doctor-appointment-system.git
-   ```
-````
 
-2. **Navigate to the project directory:**
+1. **Navigate to the project directory:**
 
    ```bash
    cd doctor-appointment-system
    ```
 
-3. **Install dependencies:**
+2. **Install dependencies:**
 
    ```bash
    npm install
@@ -60,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Navigate to the frontend directory:**
 
    ```bash
-   cd frontend
+   cd clinic_frontend
    ```
 
 2. **Create a `.env` file and configure the necessary environment variables.**
@@ -80,7 +66,7 @@ The frontend will be accessible at [http://localhost:3000](http://localhost:3000
 1. **Navigate to the backend directory:**
 
    ```bash
-   cd backend
+   cd ClinicBackendApi
    ```
 
 2. **Create a `.env` file and configure the necessary environment variables.**
