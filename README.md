@@ -1,6 +1,4 @@
 
-
-````markdown
 # Doctor Appointment System
 
 ## Introduction
